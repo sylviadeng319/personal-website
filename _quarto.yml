@@ -6,10 +6,10 @@ website:
     left:
       - href: index.qmd
         text: HOME
-      - href: about.qmd
-        text: ABOUT
       - href: projects.qmd
         text: PROJECTS
+      - href: coursework.qmd
+        text: COURSEWORK
 
 format:
   html:

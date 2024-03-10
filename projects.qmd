@@ -1,9 +1,38 @@
 ---
-title: "Projects"
+#title: "Projects"
 ---
 
-About this site
+## Projects
 
-```{r}
-1 + 1
-```
+
+#### **Lab for the Understanding of Network Effects** (*Oct 2023 – Now*)
+**Undergraduate Researcher**                      
+
+- Explored the integration of tissue-specific data into PathFX (a novel Protein-Protein Interaction model for drug effects prediction) to enhance the understanding of pathology and the development of personalized treatments.
+
+- Implemented comprehensive data analysis pipelines using Python to systematically analyze the intersection of PPI model predictions with gene expression data from GTEx.
+
+- Designed and executed extensive data mining operations over DrugBank using Python and shell scripting, leveraging the Hoffman2 cluster for higher efficiency, to map disease phenotypes to corresponding CUIs, enhancing the lab’s disease-pathway dataset.
+
+#### **TasteUCLA** (*Oct 2023 – Dec 2023*)
+
+- Led the development of TasteUCLA, a fullstack campus dining review platform, leveraging the MERN Stack along with MongooseJS, Vite, and TailwindCSS for frontend and backend development.
+
+- Spearheaded the implementation of a real-time search functionality, employing technologies such as WebSocket for seamless querying across restaurants, users, and reviews, enhancing platform usability.
+
+- Engineered an interactive search result dropdown, utilizing React.js and Node.js to update responsively with user input.
+
+- Designed and implemented user-friendly features for improved site navigation and real-time commenting for enhanced
+community interaction, integrating Redux for state management and Socket.IO for real-time communication.
+
+
+#### **A Neural Network for Classifying Loan Applications** (*Aug 2023*)
+
+- Conducted data preprocessing on a large-scale dataset from Wells Fargo National Bank in 2019, consisting of over 470,000 observations. Employed advanced techniques such as bag and median imputation, normalization, and one-hot encoding to ensure data quality and compatibility for subsequent analysis.
+
+
+- Utilized the keras engine to develop a robust multilayer perceptron (MLP) model. Leveraging 71 predictor variables, the model aimed to accurately predict loan origination or denial outcomes.
+
+- Performed a comparative analysis between the MLP model and alternate candidate models, namely random forest, decision tree, support vector machine (SVM), K-nearest neighbors (KNN), and gradient boosted trees. The analysis was conducted in R for some models, while a neural network model with PyTorch was implemented in Python.
+
+- Achieved a commendable accuracy (F1-Score) of 98.47% on the test dataset, indicating the high performance and robustness of the MLP model in predicting loan outcomes.

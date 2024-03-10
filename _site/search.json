@@ -1,30 +1,58 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Bio",
+    "objectID": "coursework.html",
+    "href": "coursework.html",
+    "title": "",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Math 115A: Linear Algebra\nMath 131A: Analysis\nMath 132: Complex Analysis for Applications\nMath 151A: Applied Numerical Methods Part 1\nMath 151B: Applied Numerical Methods Part 2 (Spring 2024)\nMath 174E: Mathematics of Finance for Mathematics/Economics Students\nMath 32A: Calculus of Several Variables\nMath 32B: Calculus of Several Variables\nMath 33A: Linear Algebra and Applications\nMath 33B: Differential Equations\nMath 42: Data-Driven Mathematical Modeling\nMath 61: Discrete Structures\n\n\n\n\n\nMath 170E: Probability and Statistics: Part 1 Probability\nMath 170S: Probability and Statistics: Part 2 Statistics\nStats 100C: Linear Models\nStats 101A: Data Analysis and Regression\nStats 101B: Design and Analysis of Experiment\nStats 101C: Statistical Models and Data Mining\nStats 102A: Data Analysis and Regression\nStats 102B: Design and Analysis of Experiment (Spring 2024)\nStats 102C: Statistical Models and Data Mining (Fall 2024)\nStats 140XP: Practice of Statistical Consulting I\nStats 141XP: Practice of Statistical Consulting II (Spring 2024)\nStats C183: Statistical Models in Finance\nStats 10: Statistical Reasoning\nStats 20: Statistical Programming with R\nStats 21: Python and Other Technologies for Data Science\n\n\n\n\n\nCS C122: Algorithms in Computational Genomics\nCS M146: Introduction to Machine Learning\nCS M148: Introduction to Data Science\nCS 31: Introduction to Computer Science I (C++)\nCS 32: Introduction to Computer Science II (C++)\nCS 33: Introduction to Computer Organization\nCS 35L: Software Construction"
+  },
+  {
+    "objectID": "coursework.html#relevant-coursework-at-ucla",
+    "href": "coursework.html#relevant-coursework-at-ucla",
+    "title": "",
+    "section": "",
+    "text": "Math 115A: Linear Algebra\nMath 131A: Analysis\nMath 132: Complex Analysis for Applications\nMath 151A: Applied Numerical Methods Part 1\nMath 151B: Applied Numerical Methods Part 2 (Spring 2024)\nMath 174E: Mathematics of Finance for Mathematics/Economics Students\nMath 32A: Calculus of Several Variables\nMath 32B: Calculus of Several Variables\nMath 33A: Linear Algebra and Applications\nMath 33B: Differential Equations\nMath 42: Data-Driven Mathematical Modeling\nMath 61: Discrete Structures\n\n\n\n\n\nMath 170E: Probability and Statistics: Part 1 Probability\nMath 170S: Probability and Statistics: Part 2 Statistics\nStats 100C: Linear Models\nStats 101A: Data Analysis and Regression\nStats 101B: Design and Analysis of Experiment\nStats 101C: Statistical Models and Data Mining\nStats 102A: Data Analysis and Regression\nStats 102B: Design and Analysis of Experiment (Spring 2024)\nStats 102C: Statistical Models and Data Mining (Fall 2024)\nStats 140XP: Practice of Statistical Consulting I\nStats 141XP: Practice of Statistical Consulting II (Spring 2024)\nStats C183: Statistical Models in Finance\nStats 10: Statistical Reasoning\nStats 20: Statistical Programming with R\nStats 21: Python and Other Technologies for Data Science\n\n\n\n\n\nCS C122: Algorithms in Computational Genomics\nCS M146: Introduction to Machine Learning\nCS M148: Introduction to Data Science\nCS 31: Introduction to Computer Science I (C++)\nCS 32: Introduction to Computer Science II (C++)\nCS 33: Introduction to Computer Organization\nCS 35L: Software Construction"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "",
+    "title": "Sylvia Deng",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "I’m Sylvia Deng.\nAttached is my current resume."
   },
   {
-    "objectID": "index.html#sylvia-deng",
-    "href": "index.html#sylvia-deng",
-    "title": "",
+    "objectID": "index.html#bio",
+    "href": "index.html#bio",
+    "title": "Sylvia Deng",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "I’m Sylvia Deng.\nAttached is my current resume."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Sylvia Deng",
+    "section": "Education",
+    "text": "Education\nUniversity of California, Los Angeles  B.S. in Mathematics of Computation (2021-Present)  B.S. in Statistics and Data Science (2021-Present)"
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
-    "title": "Projects",
+    "title": "",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Undergraduate Researcher\n\nExplored the integration of tissue-specific data into PathFX (a novel Protein-Protein Interaction model for drug effects prediction) to enhance the understanding of pathology and the development of personalized treatments.\nImplemented comprehensive data analysis pipelines using Python to systematically analyze the intersection of PPI model predictions with gene expression data from GTEx.\nDesigned and executed extensive data mining operations over DrugBank using Python and shell scripting, leveraging the Hoffman2 cluster for higher efficiency, to map disease phenotypes to corresponding CUIs, enhancing the lab’s disease-pathway dataset.\n\n\n\n\n\nLed the development of TasteUCLA, a fullstack campus dining review platform, leveraging the MERN Stack along with MongooseJS, Vite, and TailwindCSS for frontend and backend development.\nSpearheaded the implementation of a real-time search functionality, employing technologies such as WebSocket for seamless querying across restaurants, users, and reviews, enhancing platform usability.\nEngineered an interactive search result dropdown, utilizing React.js and Node.js to update responsively with user input.\nDesigned and implemented user-friendly features for improved site navigation and real-time commenting for enhanced community interaction, integrating Redux for state management and Socket.IO for real-time communication.\n\n\n\n\n\nConducted data preprocessing on a large-scale dataset from Wells Fargo National Bank in 2019, consisting of over 470,000 observations. Employed advanced techniques such as bag and median imputation, normalization, and one-hot encoding to ensure data quality and compatibility for subsequent analysis.\nUtilized the keras engine to develop a robust multilayer perceptron (MLP) model. Leveraging 71 predictor variables, the model aimed to accurately predict loan origination or denial outcomes.\nPerformed a comparative analysis between the MLP model and alternate candidate models, namely random forest, decision tree, support vector machine (SVM), K-nearest neighbors (KNN), and gradient boosted trees. The analysis was conducted in R for some models, while a neural network model with PyTorch was implemented in Python.\nAchieved a commendable accuracy (F1-Score) of 98.47% on the test dataset, indicating the high performance and robustness of the MLP model in predicting loan outcomes."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "projects.html#projects",
+    "href": "projects.html#projects",
+    "title": "",
+    "section": "",
+    "text": "Undergraduate Researcher\n\nExplored the integration of tissue-specific data into PathFX (a novel Protein-Protein Interaction model for drug effects prediction) to enhance the understanding of pathology and the development of personalized treatments.\nImplemented comprehensive data analysis pipelines using Python to systematically analyze the intersection of PPI model predictions with gene expression data from GTEx.\nDesigned and executed extensive data mining operations over DrugBank using Python and shell scripting, leveraging the Hoffman2 cluster for higher efficiency, to map disease phenotypes to corresponding CUIs, enhancing the lab’s disease-pathway dataset.\n\n\n\n\n\nLed the development of TasteUCLA, a fullstack campus dining review platform, leveraging the MERN Stack along with MongooseJS, Vite, and TailwindCSS for frontend and backend development.\nSpearheaded the implementation of a real-time search functionality, employing technologies such as WebSocket for seamless querying across restaurants, users, and reviews, enhancing platform usability.\nEngineered an interactive search result dropdown, utilizing React.js and Node.js to update responsively with user input.\nDesigned and implemented user-friendly features for improved site navigation and real-time commenting for enhanced community interaction, integrating Redux for state management and Socket.IO for real-time communication.\n\n\n\n\n\nConducted data preprocessing on a large-scale dataset from Wells Fargo National Bank in 2019, consisting of over 470,000 observations. Employed advanced techniques such as bag and median imputation, normalization, and one-hot encoding to ensure data quality and compatibility for subsequent analysis.\nUtilized the keras engine to develop a robust multilayer perceptron (MLP) model. Leveraging 71 predictor variables, the model aimed to accurately predict loan origination or denial outcomes.\nPerformed a comparative analysis between the MLP model and alternate candidate models, namely random forest, decision tree, support vector machine (SVM), K-nearest neighbors (KNN), and gradient boosted trees. The analysis was conducted in R for some models, while a neural network model with PyTorch was implemented in Python.\nAchieved a commendable accuracy (F1-Score) of 98.47% on the test dataset, indicating the high performance and robustness of the MLP model in predicting loan outcomes."
   }
 ]

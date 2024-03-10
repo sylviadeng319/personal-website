@@ -1,11 +1,25 @@
+---
+toc: false
+about: 
+  template: trestles
+  links:
+    - icon: linkedin
+      text: Linkedin
+      url: https://www.linkedin.com/in/sylvia-deng-4a94362b3/
+    - icon: inbox-fill
+      text: Email
+      url: "mailto:sylviadeng319@ucla.edu"
+title: "Sylvia Deng"
+image: Portrait.jpeg
+---
 
+## Bio
+I'm Sylvia Deng. 
 
-## Sylvia Deng
+Attached is my current [resume](/docs/CV.pdf "CV").
 
-This is a Quarto website.
+## Education
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+**University of California, Los Angeles** <br>
+B.S. in Mathematics of Computation (2021-Present) <br>
+B.S. in Statistics and Data Science (2021-Present)
